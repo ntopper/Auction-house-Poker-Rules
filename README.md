@@ -1,5 +1,9 @@
 # Auction House Poker — Rules
 
+*disclaimer: Auction House Poker’ is a working title and may be renamed in future versions.*
+
+*The rules of Auction House Poker are released under CC0. Implementations of the game, including software, artwork, and branding, may be independently copyrighted or trademarked by their creators.*
+
 Auction House Poker is a poker variant where players compete in a series of open auctions to improve their hands. Each player starts with two private cards, and one card at a time is revealed and auctioned to the table. Players may win at most one auction, paying chips into the pot to claim a visible card while others must decide whether to spend or conserve resources.
 
 After all auctions are complete, players reveal their hands before the community cards are dealt, creating full information before the final outcome. The best five-card poker hand wins, with the pot made entirely from antes and auction bids. The game emphasizes valuation, timing, and reading opponents rather than traditional betting.
